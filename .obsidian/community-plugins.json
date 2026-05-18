@@ -2,5 +2,7 @@
   "obsidian-git",
   "obsidian-linter",
   "obsidian-excalidraw-plugin",
-  "omnisearch"
+  "omnisearch",
+  "obsidian-importer",
+  "highlightr-plugin"
 ]
