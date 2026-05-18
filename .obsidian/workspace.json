@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "палийский-канон/описания-терминов/loka.md",
+                "file": "палийский-канон/описания-терминов/Kāmaloka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "loka"
+              "title": "Kāmaloka"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "палийский-канон/описания-терминов/loka.md",
+                "file": "палийский-канон/описания-терминов/Kāmaloka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for loka"
+              "title": "Backlinks for Kāmaloka"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "палийский-канон/описания-терминов/loka.md",
+                "file": "палийский-канон/описания-терминов/Kāmaloka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from loka"
+              "title": "Outgoing links from Kāmaloka"
             }
           },
           {
@@ -218,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 585.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,12 +237,13 @@
   },
   "active": "6eede4a65b5bba22",
   "lastOpenFiles": [
+    "палийский-канон/описания-терминов/три характеристики бытия.md",
+    "палийский-канон/описания-терминов/Rūpaloka.md",
+    "палийский-канон/описания-терминов/loka.md",
+    "палийский-канон/описания-терминов/Arūpaloka.md",
     "палийский-канон/описания-терминов/Kāmaloka.md",
     "палийский-канон/термины.md",
-    "палийский-канон/описания-терминов/Rūpaloka.md",
     "палийский-канон/пять-скандх/пять-скандх.md",
-    "палийский-канон/описания-терминов/loka.md",
-    "палийский-канон/описания-терминов/три характеристики бытия.md",
     "палийский-канон/четыре-благородные-истинны.md",
     "палийский-канон/пять-скандх/viññāṇa.md",
     "палийский-канон/пять-скандх/saṅkhārā.md",
@@ -266,7 +267,6 @@
     "благородный-восьмеричный путь/правильное-намерение.md",
     "палийский-канон/благородный-восьмеричный-путь/правильное-усилие.md",
     "благородный-восьмеричный путь/правильное намерение.md",
-    "палийский-канон/благородный-восьмеричный-путь/правильный-образ-жизни.md",
     "палийский-канон/благородный-восьмеричный-путь",
     "folder_gm_grey_24dp.svg",
     "Apple Notes/BUDISM/размышления",
