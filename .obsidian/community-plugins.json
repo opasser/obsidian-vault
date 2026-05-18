@@ -1,3 +1,6 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-linter",
+  "obsidian-excalidraw-plugin",
+  "omnisearch"
 ]
