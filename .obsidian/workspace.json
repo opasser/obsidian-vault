@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "палийский-канон/описания-терминов/Kāmaloka.md",
+                "file": "палийский-канон/описания-терминов/три-характеристики-бытия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kāmaloka"
+              "title": "три-характеристики-бытия"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "палийский-канон/описания-терминов/Kāmaloka.md",
+                "file": "палийский-канон/описания-терминов/три-характеристики-бытия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kāmaloka"
+              "title": "Backlinks for три-характеристики-бытия"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "палийский-канон/описания-терминов/Kāmaloka.md",
+                "file": "палийский-канон/описания-терминов/три-характеристики-бытия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kāmaloka"
+              "title": "Outgoing links from три-характеристики-бытия"
             }
           },
           {
@@ -218,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,11 +237,11 @@
   },
   "active": "6eede4a65b5bba22",
   "lastOpenFiles": [
-    "палийский-канон/описания-терминов/три характеристики бытия.md",
-    "палийский-канон/описания-терминов/Rūpaloka.md",
     "палийский-канон/описания-терминов/loka.md",
-    "палийский-канон/описания-терминов/Arūpaloka.md",
     "палийский-канон/описания-терминов/Kāmaloka.md",
+    "палийский-канон/описания-терминов/три-характеристики-бытия.md",
+    "палийский-канон/описания-терминов/Rūpaloka.md",
+    "палийский-канон/описания-терминов/Arūpaloka.md",
     "палийский-канон/термины.md",
     "палийский-канон/пять-скандх/пять-скандх.md",
     "палийский-канон/четыре-благородные-истинны.md",
